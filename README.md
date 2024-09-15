@@ -1,7 +1,11 @@
 # expenses-analysis
 **Expenses and Budget analysis (ETL and dashboard in power BI)**
 
-<img src="/Images/pict_dashboard.png" width="600">
+Overview :
+<img src="/Images/pict_dashboard.png" width="900">
+
+Deep dive :
+<img src="/Images/pict_dashboard_deepdive.png" width="900">
 
 # Goal
 
