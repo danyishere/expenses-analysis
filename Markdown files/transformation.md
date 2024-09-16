@@ -41,7 +41,7 @@ File > Options and settings > Options > Data Load > Type detection
 
 ### - "Transform file"
 
-This function is the template transformation for all account statements in the "Banque/Relevés" folde
+This function is the template transformation for all account statements in the "Banque/Relevés" folder
 
 ⚒️ **Applied skill sets** :
 - Functions
@@ -89,6 +89,40 @@ It then applies several transformations to :
 
 ⚒️ **Applied skill sets** :
 - Working with locales
+<br/>
+<br>
+
+# Interesting Outputs
+
+## Account statements
+
+Before :
+
+<img src="/Images/account_statement_before.png" width="900">
+
+After applying all the transformation steps, the satements have:
+- a transaction date column
+- a `Primary Key` to match the invoices
+- a `Foreign Key`to be matched with the category lookup table primary key
+
+
+
+<img src="/Images/account_statement_after.png" width="900">
+
+## Invoices
+
+After applying all the transformation steps, the invoices are now readable and ready to be related to the account statements.
+
+Before :
+
+<img src="/Images/invoice_before.png" width="900">
+
+After  :
+
+<img src="/Images/invoice_after.png" width="900">
+<br/>
+
+<br>
 
 # Next Step
 

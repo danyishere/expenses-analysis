@@ -31,3 +31,13 @@ Creating a Power BI `Semantic Model` consists in:
 
 # Main Details
 
+## Building the Star Schema
+
+The initial data sources could not be used as-is :
+- No keys to create relationships (Look up table > account statements > invoices)
+- Messy invoices data structure
+
+Before :
+
+After a few [transformations](transformation.md) 
+
