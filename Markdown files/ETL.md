@@ -17,9 +17,9 @@ ETL usually is **the most time-consuming step** of building a dashboard and it c
 
 # Table of Contents
 
-1. Extraction
-2. Transformation and the challenges faced
-3. Loading
+1. [Extraction](https://github.com/danyishere/expenses-analysis?tab=readme-ov-file#getting-started](https://github.com/danyishere/expenses-analysis/edit/main/Markdown%20files/ETL.md#extraction))
+2. [Transformation and the challenges faced]()
+3. [Loading]()
 
 
 # Extraction
@@ -50,4 +50,4 @@ So far, it works, but this is a tedious process which I must automate. As the lo
 
 The data is extracted using :
 - the Web connector (with my Microsoft 365 credentials)
-- the Folder connector
+- the Folder connector to automatically extract the new invoices and statements as they are being added
