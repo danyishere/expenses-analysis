@@ -1,15 +1,6 @@
 # expenses-analysis
 **Expenses and Budget analysis (ETL and dashboard in power BI)**
 
-# Table of Contents
-
-- [Documentation](README.md#documentation)
-- [Goal](README.md#goal)
-- [Getting Started](README.md#getting-started)
-
----
-
-
 # Documentation
 
 To have a better understanding of this analysis, I have documented its different steps :
@@ -19,7 +10,13 @@ To have a better understanding of this analysis, I have documented its different
 - [Dashboard Design](Markdown%20files/dashboard_design.md#introduction)
 - [Results and Synthesis](Markdown%20files/synthesis.md#synthesis)
 
+---
 
+# Table of Contents
+
+- [Documentation](README.md#documentation)
+- [Goal](README.md#goal)
+- [Getting Started](README.md#getting-started)
 
 
 # Goal

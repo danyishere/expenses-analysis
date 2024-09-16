@@ -61,7 +61,7 @@ After a few [transformations](transformation.md), here is the `Semantic Model`, 
 - `AVERAGEX` : compute budget surplus 30 days moving average
 - `CALCULATE` : modify filter context
 - `CALENDARAUTO` : in combination with MIN, MAX and YEAR to create a custom Date table
-- `CONCATENATE` : dynamically update dashboard title for All or selected months
+- `CONCATENATEX` : dynamically update dashboard title for All or selected months
 - `DIVIDE` : 💁🏽‍♂️
 - `FORMAT` : format date columns
 - `IF` : conditionnally format reference and callout values
