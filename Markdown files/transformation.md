@@ -27,6 +27,7 @@ File > Options and settings > Options > Data Load > Type detection
     - Error proof your change types step by using a Try structure
 - **Rename all your steps** and use **only letters, numbers and underscores (no spaces)** to avoid the weird looking #"Column Name" step in the Advanced Editor
 - **Leverage functions** for redundant operations
+- **Filter your data before loading it** to improve performance and RAM usage
 - **Leverage parameters for file paths** (or for anything else) to build robust queries
 - **Group your queries** by creating distinct groups for parameters, helper queries, functions, to improve maintenance and readability
 - **Add comments**

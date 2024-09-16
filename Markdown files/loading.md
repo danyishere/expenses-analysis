@@ -6,7 +6,8 @@
 
 
 
-
+- Do not load tables without transforming it unless you're 100% sure of where it comes from
+- Disable loading of helper queries
 
 
 
