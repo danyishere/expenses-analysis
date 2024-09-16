@@ -1,6 +1,6 @@
 # ETL
 
-[Go back to README.md](./README.md)
+[Go back to README.md](../README.md)
 
 Once you know who your end users will be, what is the goal of your dashboard and what will be the KPIs, you must actually build it.
 
@@ -17,6 +17,6 @@ ETL usually is **the most time-consuming step** of building a dashboard and it c
 **Do not underestimate the time it will take.**
 
 
-- [Go to Extraction]("/extraction.md")
-- [Go to Transformation]("/transformation.md")
-- [Go to Loading]("/loading.md")
+- [Go to Extraction](extraction.md)
+- [Go to Transformation](transformation.md)
+- [Go to Loading](loading.md)
