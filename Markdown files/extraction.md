@@ -1,6 +1,6 @@
 # Extraction
 
-[Go back to ETL]("/Markdown%20files/ETL.md")
+[Go back to ETL]("/ETL.md")
 
 ## Getting the invoices 
 
@@ -34,4 +34,4 @@ The data is extracted using :
 
 # Next Step
 
-[Go to Transformation]("/Markdown%20files/transformation.md")
+[Go to Transformation]("/transformation.md")

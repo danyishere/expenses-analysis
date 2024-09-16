@@ -1,7 +1,7 @@
 # Transformation
 
-- [Go back to ETL]("/Markdown%20files/ETL.md")
-- [Go back to Extraction]("/Markdown%20files/extraction.md")
+- [Go back to ETL]("/ETL.md")
+- [Go back to Extraction]("/extraction.md")
 
 
 # Heads Up
@@ -91,4 +91,4 @@ It then applies several transformations to :
 
 # Next Step
 
-[Go to Loading]("/Markdown%20files/loading.md")
+[Go to Loading]("/loading.md")

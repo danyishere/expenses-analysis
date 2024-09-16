@@ -1,8 +1,8 @@
 # Loading
 
-- [Go back to ETL]("/Markdown%20files/ETL.md")
-- [Go back to Tranformation]("/Markdown%20files/transformation.md")
-- [Go back to Extraction]("/Markdown%20files/extraction.md")
+- [Go back to ETL]("/ETL.md")
+- [Go back to Tranformation]("/transformation.md")
+- [Go back to Extraction]("/extraction.md")
 
 
 
@@ -14,4 +14,4 @@
 
 # Next Step
 
-[Go to Data Modeling]("/Markdown%20files/data_modeling.md")
+[Go to Data Modeling]("/data_modeling.md")
