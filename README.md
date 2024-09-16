@@ -1,6 +1,16 @@
 # expenses-analysis
 **Expenses and Budget analysis (ETL and dashboard in power BI)**
 
+# Documentation
+
+To have a better understanding of this dashboard, I have documented the different steps of its creation:
+
+- [ETL process](https://github.com/danyishere/expenses-analysis/main/Markdown%20files/ETL.md#introduction)
+- [Data Modeling](https://github.com/danyishere/expenses-analysis/main/Markdown%20files/data_modeling.md#introduction)
+- [Dashboard Design](https://github.com/danyishere/expenses-analysis/main/Markdown%20files/dashboard_design.md#introduction)
+- [Results and Synthesis](https://github.com/danyishere/expenses-analysis/main/Markdown%20files/synthesis.md#Synthesis)
+
+
 # Goal
 
 ## Budget
