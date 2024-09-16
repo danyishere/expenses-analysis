@@ -14,7 +14,6 @@ To have a better understanding of this analysis, I have documented its different
 
 # Table of Contents
 
-- [Documentation](README.md#documentation)
 - [Goal](README.md#goal)
 - [Getting Started](README.md#getting-started)
 
