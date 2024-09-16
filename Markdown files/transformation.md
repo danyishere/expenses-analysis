@@ -32,8 +32,7 @@ File > Options and settings > Options > Data Load > Type detection
 - **Group your queries** by creating distinct groups for parameters, helper queries, functions, to improve maintenance and readability
 - **Add comments**
 - **Add a description** to all your query groups, tables, columns and measures if necessary to allow other developpers and users to understand what you've done
-<br/>
-<br>
+
 
 # Main transformations
 
@@ -89,8 +88,7 @@ It then applies several transformations to :
 
 ⚒️ **Applied skill sets** :
 - Working with locales
-<br/>
-<br>
+
 
 # Interesting Outputs
 
@@ -111,18 +109,16 @@ After applying all the transformation steps, the satements have:
 
 ## Invoices
 
-After applying all the transformation steps, the invoices are now readable and ready to be related to the account statements.
 
 Before :
 
 <img src="/Images/invoice_before.png" width="900">
 
-After  :
+After applying all the transformation steps, the invoices are now:
+- readable
+- ready to be related to the account statements with the orderid `Foreign Key`:
 
 <img src="/Images/invoice_after.png" width="900">
-<br/>
-
-<br>
 
 # Next Step
 

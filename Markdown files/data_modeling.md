@@ -1,5 +1,7 @@
 # Data Modeling
 
+[Go back to ETL](ETL.md)
+
 Creating a Power BI `Semantic Model` consists in:
 
 - Creating the relationships between the tables
@@ -25,9 +27,7 @@ Creating a Power BI `Semantic Model` consists in:
 >**DO NOT Flatten your tables :**
 >- This'll slow down performance
 >- and you won't be able to leverage advanced Power BI capabilities (e.g. time intelligence, DAX functions)
-<br/>
 
-<br>
 
 # Main Details
 
@@ -39,5 +39,13 @@ The initial data sources could not be used as-is :
 
 Before :
 
-After a few [transformations](transformation.md) 
+<img src="/Images/semantic_model_before.png" width="900">
 
+
+After a few [transformations](transformation.md), here is the `Semantic Model`, ready to be used for Analysis : 
+
+<img src="/Images/semantic_model_after.png" width="900">
+
+# Next Step
+
+[Go to Dashboard Designng](dashboard_design.md)
