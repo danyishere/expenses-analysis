@@ -46,6 +46,34 @@ After a few [transformations](transformation.md), here is the `Semantic Model`, 
 
 <img src="/Images/semantic_model_after.png" width="900">
 
+## DAX Measures
+
+### Good Practices
+
+- **Gather your measures in dedicated tables** to improve readability and maintenance
+- **Create a dedicated time table** in DAX and use it as a Date table to leverage time intelligence functions
+- **hide all explicit fields that you've replaced** by explicit measures
+
+> **Always build explicit measures** rather than just using implicit ones (explicit fields) to leverage their flexibility.
+
+### ⚒️ Applied functions
+- `ALL` : delete all filter context
+- `AVERAGEX` : compute budget surplus 30 days moving average
+- `CALCULATE` : modify filter context
+- `CALENDARAUTO` : in combination with MIN, MAX and YEAR to create a custom Date table
+- `CONCATENATE` : dynamically update dashboard title for All or selected months
+- `DIVIDE` : 💁🏽‍♂️
+- `FORMAT` : format date columns
+- `IF` : conditionnally format reference and callout values
+- `ISFILTERED` : in combination with IF and VALUES to dynamically update dashboard title for my different accounts
+- `LEFT` : extract first characters
+- `MAX/MIN` : retrieve max/min dates from Date table
+- `SAMEPERIODLASTYEAR` : calculate previous year/month cash outflow
+- `SUM`: 💁🏽‍♂️
+- `VALUES`: create a table of selected values
+- `YEAR`(`QUARTER`, `MONTH`, `WEEKDAY`, `DAY`) : 💁🏽‍♂️ 
+
+
 # Next Step
 
-[Go to Dashboard Designng](dashboard_design.md)
+[Go to Dashboard Designing](dashboard_design.md)

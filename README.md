@@ -3,9 +3,9 @@
 
 # Table of Contents
 
-- [Documentation](https://github.com/danyishere/expenses-analysis/blob/main/README.md#documentation)
-- [Goal](https://github.com/danyishere/expenses-analysis/blob/main/README.md#goal)
-- [Getting Started](https://github.com/danyishere/expenses-analysis/blob/main/README.md#getting-started)
+- [Documentation](README.md#documentation)
+- [Goal](README.md#goal)
+- [Getting Started](README.md#getting-started)
 
 ---
 
@@ -14,10 +14,10 @@
 
 To have a better understanding of this analysis, I have documented its different steps :
 
-- [ETL process](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/ETL.md#introduction)
-- [Data Modeling](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/data_modeling.md#introduction)
-- [Dashboard Design](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/dashboard_design.md#introduction)
-- [Results and Synthesis](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/synthesis.md#synthesis)
+- [ETL process](Markdown%20files/ETL.md#introduction)
+- [Data Modeling](Markdown%20files/data_modeling.md#introduction)
+- [Dashboard Design](Markdown%20files/dashboard_design.md#introduction)
+- [Results and Synthesis](Markdown%20files/synthesis.md#synthesis)
 
 
 

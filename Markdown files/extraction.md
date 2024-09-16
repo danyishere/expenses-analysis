@@ -30,6 +30,7 @@ So far, it works, but this is a tedious process which I must automate. As the lo
 
 The data is extracted using :
 - the Web connector (with my Microsoft 365 credentials)
+- the PDF connector to extract invoices data
 - the Folder connector to automatically extract the new invoices and statements as they are being added
 
 # Next Step
