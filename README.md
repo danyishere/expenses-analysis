@@ -1,9 +1,18 @@
 # expenses-analysis
 **Expenses and Budget analysis (ETL and dashboard in power BI)**
 
+# Table of Contents
+
+- [Documentation](https://github.com/danyishere/expenses-analysis/blob/main/README.md#documentation)
+- [Goal](https://github.com/danyishere/expenses-analysis/blob/main/README.md#goal)
+- [Getting Started](https://github.com/danyishere/expenses-analysis/blob/main/README.md#getting-started)
+
+---
+
+
 # Documentation
 
-To have a better understanding of this dashboard, I have documented the different steps of its creation:
+To have a better understanding of this analysis, I have documented its different steps :
 
 - [ETL process](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/ETL.md#introduction)
 - [Data Modeling](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/data_modeling.md#introduction)
@@ -11,11 +20,13 @@ To have a better understanding of this dashboard, I have documented the differen
 - [Results and Synthesis](https://github.com/danyishere/expenses-analysis/blob/main/Markdown%20files/synthesis.md#synthesis)
 
 
+
+
 # Goal
 
 ## Budget
 
-The main focus here is to understand, based on my account statements (.xlsx):
+The main focus here is to understand, based on my account statements:
 - how much I spend in each category
 - how much I save and invest
 - determine whether my budget allows me to clear a budget surplus or if I should increase/shift it towards another category
@@ -35,13 +46,13 @@ Grocery shopping is a massive area of expenditure, right ?
 
 Knowing so, wouldn't it be interesting to be able to understand my (me and my family) consumption habits in even more details than just my account statements ?
 
-Well, my local supermarket allows me to do just that by mailing me my invoices (.pdf).
+Well, my local supermarket allows me to do just that by mailing me my invoices.
 
 # Getting Started
 
 1. If you don't have it, **install Power BI Desktop**. You can download it from [the official Microsoft download page](https://www.microsoft.com/fr-fr/download/details.aspx?id=58494).
 2. **Download the files** in the "Files" folder :
-  - **"Facture_altered.xls"** _(account statement)_: this is a fake, altered version, since I obviously can't give you the real ones. If you have an account at BNP or Hello Bank, feel free to use your own account statements
+  - **"2022_altered.xls"** _(2022 account statement)_: this is a fake, altered version, since I obviously can't give you the real ones. If you have an account at BNP or Hello Bank, feel free to use your own account statements
   - **"Facture_altered.pdf"** _(invoice)_: this is a fake, altered version, since I obviously can't give you the real ones. If you do your groceries at E.LECLERC, feel free to use your own invoices
   - **"Dashboard_frame.pptx"** _(canvas background)_: I believe PowerPoint is easier and faster to use than Figma, even though Figma is really good. But the hassle isn't worth it IMO, unless you need a really fancy design.
   - **"Lookup.xls"** _(lookup table)_: this is the lookup table that categorizes your transactions. This is a light version of mine but feel free to use it as a starting point to create yours.
