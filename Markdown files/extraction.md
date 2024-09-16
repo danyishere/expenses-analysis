@@ -1,5 +1,7 @@
 # Extraction
 
+[Go back to ETL]("/Markdown%20files/ETL.md")
+
 ## Getting the invoices 
 
 The invoices are sent to my personal email from E.LECLERC so I created a worfklow in Power Automate to automatically download the attached pdf file whenever I receive an email from nepasrepondre@l-information.com and store it in E.LECLERC/Factures in OneDrive.
@@ -29,3 +31,7 @@ So far, it works, but this is a tedious process which I must automate. As the lo
 The data is extracted using :
 - the Web connector (with my Microsoft 365 credentials)
 - the Folder connector to automatically extract the new invoices and statements as they are being added
+
+# Next Step
+
+[Go to Transformation]("/Markdown%20files/transformation.md")
