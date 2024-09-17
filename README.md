@@ -4,7 +4,7 @@
 # Table of Contents
 
 - [🎯 Goal](README.md#goal)
-- [⚒️ Showcased Skills](README.md#showcased-skills)
+- [⚒️ Showcased Skills](README.md#%EF%B8%8F-showcased-skills)
 - [🔌 Getting Started](README.md#getting-started)
 - [📑 Documentation](README.md#documentation)
 
