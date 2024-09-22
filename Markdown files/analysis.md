@@ -1,5 +1,7 @@
 # Business Intelligence Report on 2024 Budget Analysis
 
+[Go back to Dashboard Designing](dashboard_design.md)
+
 ## Context and Overview
 This report leverages the insights digged out from my own account statements and hypermarket invoices using a Power BI Busines Intelligence dashboard.
 
