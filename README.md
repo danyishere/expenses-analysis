@@ -33,7 +33,9 @@ Grocery shopping is a massive area of expenditure, right ?
 
 Knowing so, wouldn't it be interesting to be able to understand my (me and my family) consumption habits in even more details than just my account statements ?
 
-Well, my local supermarket allows me to do just that by mailing me my invoices.
+Well, my local hypermarket allows me to do just that by mailing me my invoices.
+
+<img src="/Images/pict_dashboard_deepdive_supermarket.png" width="900">
 
 # ⚒️ Showcased Skills
 
@@ -90,7 +92,7 @@ Full path should now look like "C:\Users\yourbeautifulname\OneDrive\Documents\Ba
 
 To have a better understanding of this analysis, I have documented its different steps :
 
-- [ETL process](Markdown%20files/ETL.md#introduction)
-- [Data Modeling](Markdown%20files/data_modeling.md#introduction)
-- [Dashboard Design](Markdown%20files/dashboard_design.md#introduction)
-- [Results and Synthesis](Markdown%20files/synthesis.md#synthesis)
+- [ETL process](Markdown%20files/ETL.md)
+- [Data Modeling](Markdown%20files/data_modeling.md)
+- [Dashboard Design](Markdown%20files/dashboard_design.md)
+- [Results and Synthesis](Markdown%20files/analysis.md)
