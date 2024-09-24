@@ -1,5 +1,5 @@
-# expenses-analysis
-**Expenses and Budget analysis (ETL and dashboard in power BI)**
+# Budget Analysis
+**This Business Intelligence project details the whole process of deriving strategic actions from data using Power BI**
 
 # Table of Contents
 
